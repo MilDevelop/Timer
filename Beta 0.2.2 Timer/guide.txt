@@ -1,0 +1,23 @@
+Instructions for using the "Watch" program from the developer - "Milimit"
+The program is written in the Python programming language, using the module - pygame and it is under development!
+
+Basic Guide:
+To start a simple stopwatch, installed by default in the program, click on the pronounced "START" button under the numbers.
+After that, an automatic stopwatch is activated.
+By left-clicking on the "pause" button below, you can stop the stopwatch.
+By clicking on the "stop" button below, you will completely reset the stopwatch indicators and it will return to its initial state again.
+To remove the timer from pause, you need to click on the "continue" button of the same name with the right mouse button.
+To close the program, you need to press the "ESCAPE" key or the cross in the open window.
+
+The program also has settings where you can change the options and configure the program to suit you.
+To open the settings, click on the icon of the same name with the left mouse button, to close the settings, click on the icon of the same name with the right mouse button.
+In the settings you will find certain options for changing the language, themes for your program.
+You can also change the mode, set a stopwatch for sports or a timer.
+
+In order to detect any time in a stopwatch or a stopwatch in sports mode, you can click on the checkbox that immediately appears after pressing the "START" button.
+In timer mode, to set a certain time for you, you need to scroll the mouse wheel in a particular area, i.e. minutes, hours, seconds.
+
+When you press the "L" key, the program will show you your local time.
+
+A note from the author:
+Thank you for choosing my program for your purposes. As a novice developer, I am very pleased)).
